@@ -1,0 +1,17 @@
+
+Test Result Summary:
+
+1. Login API
+   ✔ Status Code: 200 OK
+   ✔ Token Received
+   ✔ Response Time: 180ms
+
+2. Get User Profile
+   ✔ Status Code: 200 OK
+   ✔ User Data Retrieved
+   ✔ Response Time: 220ms
+
+3. Logout API
+   ✔ Status Code: 200 OK
+   ✔ Logout Successful
+   ✔ Response Time: 150ms
